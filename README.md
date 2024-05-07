@@ -13,6 +13,7 @@ This project demonstrates how to fetch data from an API using Axios in a React a
 2. Install Bootstrap : `npm install bootstrap`
 3. Navigate to the project directory: `cd my-react-project`
 4. Install dependencies: `npm install`
+5. Start Project : `npm start`
 
 ## Usage
 
