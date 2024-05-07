@@ -1,0 +1,36 @@
+.App{
+  background-color: black;
+}
+.App h1{
+  color: #ccc;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 20px;
+}
+
+.launches {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  
+
+  
+}
+
+.launch-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: justify;
+  color: white;
+  margin: 20px;
+  border-color: blue;
+  height: fit-content;
+}
+
+.launch-card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
