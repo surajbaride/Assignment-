@@ -1,7 +1,7 @@
 # Assignment-
 # My React Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/surajbaride/Assignment-/tree/main).
 
 ## Description
 
@@ -9,10 +9,10 @@ This project demonstrates how to fetch data from an API using Axios in a React a
 
 ## Installation
 
-1. npx create-react-app assignment
-2. npm install bootstrap
-1. Navigate to the project directory: `cd my-react-project`
-2. Install dependencies: `npm install`
+1. Create Folder : `npx create-react-app assignment`
+2. Install Bootstrap : `npm install bootstrap`
+3. Navigate to the project directory: `cd my-react-project`
+4. Install dependencies: `npm install`
 
 ## Usage
 
